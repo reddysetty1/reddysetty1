@@ -1,5 +1,5 @@
-# 💫 About Me:
-Who Am I?<br>👨‍💻 A results-driven Software Development Engineer who enjoys building reliable, user-focused applications<br>🧩 Crafting HMI, desktop, and client–server solutions using C#, .NET, and MAUI<br>🧪 Strong believer in quality-first development with hands-on experience in unit, integration, and performance testing<br>⚙️ Working with MS SQL Server, Windows Services, and clean object-oriented design patterns<br>🌱 Currently learning test automation (Selenium, FlaUI), Ansible, and DevOps practices<br>🤝 Growing through Agile collaboration, open discussions, and continuous improvement<br>🎯 Driven by learning through building, testing, and shipping better software every day
+# 💫 Who Am I?:
+<br>👨‍💻 A results-driven Software Development Engineer who enjoys building reliable, user-focused applications<br>🧩 Crafting HMI, desktop, and client–server solutions using C#, .NET, and MAUI<br>🧪 Strong believer in quality-first development with hands-on experience in unit, integration, and performance testing<br>⚙️ Working with MS SQL Server, Windows Services, and clean object-oriented design patterns<br>🌱 Currently learning test automation (Selenium, FlaUI), Ansible, and DevOps practices<br>🤝 Growing through Agile collaboration, open discussions, and continuous improvement<br>🎯 Driven by learning through building, testing, and shipping better software every day
 
 
 ## 🌐 Socials:
